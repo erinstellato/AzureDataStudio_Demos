@@ -1,2 +1,2 @@
 # AzureDataStudio_Demos
-Demo scripts for Azure Data Studio
+This repository contains scripts for demos in Azure Data Studio that highlight new and existing features and functionality.
